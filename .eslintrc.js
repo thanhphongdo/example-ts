@@ -19,7 +19,11 @@ module.exports = {
     'global-require': 'off',
     'comma-dangle': 'off',
     'no-param-reassign': 'off',
-    // '': 'off',
+    'arrow-parens': 'off',
+    '@typescript-eslint/no-var-requires': 'off',
+    '@typescript-eslint/no-unused-vars': 'off',
+    'import/extensions': 'off',
+    'import/no-unresolved': 'off',
     // '': 'off',
   },
   overrides: [

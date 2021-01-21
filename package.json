@@ -39,8 +39,10 @@
     "eslint-plugin-vue": "^6.2.2",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.1",
+    "path": "^0.12.7",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
+    "scoped-css-loader": "^1.0.0",
     "typescript": "~3.9.3",
     "vue-template-compiler": "^2.6.11"
   }
